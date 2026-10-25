@@ -2,8 +2,8 @@ This program visualizes point clouds in three-dimensional (3D) space and provide
 There are two ways to run the program:
 1. Download the .zip file, extract its contents, and follow the instructions in ReadMe.txt.
 2. Download the .exe files, freeglut.dll, and Points_Cloud.txt, and place all the files in the same folder. Then run the desired .exe file. This option provides limited functionality.
-   - 3DCellCudaPlot.exe: CPU + NVIDIA GPU with CUDA for computation, + Intel GPU with OpenGL for rendering.
-   - 3DCellOGLPlot.exe: CPU for computation + Intel GPU with OpenGL for rendering.
+   - 3DCellCudaPlot.exe: CPU for computation + NVIDIA GPU with CUDA + Intel GPU with OpenGL for computation and rendering.
+   - 3DCellOGLPlot.exe: CPU for computation + Intel GPU with OpenGL for computation and rendering.
 
 ## Applications
 1. Point-in-cloud testing: Determine whether a given point lies inside a point cloud or a polyhedral region, supporting applications such as data visualization and anomaly detection.
