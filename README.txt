@@ -12,5 +12,5 @@ There are two ways to run the program:
 4. Engineering and computer graphics: Support 3D visualization, geometric analysis, and related engineering applications.
 
 
-(R) Samantha Sriyananda
+(c) Samantha Sriyananda
 Contact: mgssriyananda@gmail.com
